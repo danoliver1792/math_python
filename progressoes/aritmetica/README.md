@@ -1,6 +1,3 @@
-<h1>Os programas em Python deste repositório vão resolver cálculos matemáticos</h1>
- 
-<p>Como bom amante de números e aprendiz no mundo da tecnologia, decidi unir essas duas paixões para compartilhar o que eu mais gosto: </p></br>
-<h2>Matemática e programação</h2> </br>
-
-![logo-hipotenusa-python](https://user-images.githubusercontent.com/99451711/170847274-76cef036-120d-4378-996c-bbe59efa68b5.png)
+<h2>Vamos calcular os dez primeiros termos de uma Progressão Aritmética</h2> </br>
+<h3>Iremos usar estas fórmulas:</h3>
+<img src='https://user-images.githubusercontent.com/99451711/170891340-f9ded0f6-80e8-43f3-a4d8-cc701eb2e107.JPG'>
