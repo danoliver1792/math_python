@@ -1,5 +1,3 @@
-from random import randint
-
 print('\033[4;31mVamos ver se o número digitado é par ou ímpar? \033[m')
 
 numero = int(input('Digite um número: '))
